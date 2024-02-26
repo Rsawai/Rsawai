@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="center">
+  <p align="center" >
   <img src="https://img.shields.io/badge/-React%20Developer-61DAFB?style=flat&logo=react&logoColor=white" alt="React Developer Badge" />
 </p>
 
@@ -27,9 +27,11 @@
 
 💡 **Skills**
 
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, HTML, NodeJS, Express
+  **Styling:** CSS, SASS
+  **Database:** Mysql, Mongodb
 - **Frameworks:** React
-- **Tools:** Git, VS Code
+- **Tools:** Git, VS Code, Jira, Trello, postman
 
 ---
 
@@ -60,7 +62,7 @@ Overall, the Event Management Project showcases the integration of frontend and 
 
 🔗 **Connect with Me**
 
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+- [LinkedIn](https://www.linkedin.com/in/rasika-sawai-9505a722b/)
 ---
 
 ⭐ **Let's create something amazing together!**
