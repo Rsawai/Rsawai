@@ -11,7 +11,7 @@
 
 👩‍💻 **Experienced React Developer**
 
-- 💼 Over 8 months of hands-on experience with React JS.
+- 💼 Hands-on experience with React JS.
 - 🎓 Graduated in Computer Science, passionate about web development.
 - 🚀 Excited to create user-friendly and innovative web applications.
 
