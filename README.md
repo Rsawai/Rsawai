@@ -39,7 +39,7 @@
 
 - 🚀 [Library Management Project]([link-to-project1](https://github.com/Rsawai/Library-Management.git)) - 
 The Library Management Project with React is a web application designed to facilitate the efficient management of a library's book collection. Leveraging React's capabilities, the project incorporates essential CRUD operations (Create, Read, Update, Delete) on book records, ensuring a responsive design for optimal user experience. Key features include a dynamic dashboard providing insightful metrics, comprehensive book management functionalities such as adding, editing, and deleting books, user authentication, and seamless navigation through a well-organized UI. JSON data is used for local storage, allowing users to interact with a simulated backend while practicing React development skills. The project fosters a practical understanding of responsive design principles, user authentication, and the implementation of CRUD operations within a React application.
-
+Visit the link to view Library Management Project:- <a href='https://library-villa.netlify.app/' target="blank">
 - 🌐 [Event Management Project]([link-to-project2](https://github.com/Rsawai/Event-Management.git)) - 
 The Event Management Project is a full-stack web application designed to streamline the organization and participation in various events. Employing a MySQL database for robust data storage, Node.js and Express handle the server-side logic, while React provides a dynamic and responsive frontend. User authentication is secured through JWT tokens, ensuring a safe and personalized experience.
 
