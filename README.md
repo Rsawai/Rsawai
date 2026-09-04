@@ -27,11 +27,11 @@
 
 💡 **Skills**
 
-- **Languages:** JavaScript, HTML, NodeJS, Express
-  **Styling:** CSS, SASS
-  **Database:** Mysql, Mongodb
-- **Frameworks:** React
-- **Tools:** Git, VS Code, Jira, Trello, postman
+- **Languages:** JavaScript, HTML,
+  **Styling:** CSS, SASS, Bootstrap
+  **Database:** Mysql
+- **Frameworks:** React-JS
+- **Tools:** Git, VS Code, Jira, Trello, postman, Bitbucket
 
 ---
 
